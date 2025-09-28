@@ -1,0 +1,7 @@
+:root { --max: 72rem; }
+* { box-sizing: border-box; }
+html, body { padding: 0; margin: 0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial; }
+.prose h1, .prose h2, .prose h3 { margin-top: 1.5rem; }
+.prose p, .prose ul, .prose ol { line-height: 1.6; }
+a { text-decoration: underline; }
+header, main, footer { max-width: var(--max); margin: 0 auto; }
