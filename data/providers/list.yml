@@ -1,0 +1,7 @@
+providers:
+  - id: "vpnx"
+    url: "https://partner.exempel.com/?affid=123"
+  - id: "vpny"
+    url: "https://awin.exempel.com/c/abcd"
+  - id: "hostx"
+    url: "https://adtraction.exempel.com/t/click"
