@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "serve out",
+    "lint": "next lint",
+    "sitemap": "next-sitemap",
+    "check:links": "node scripts/check-links.mjs"
+  }
+}
